@@ -19,7 +19,7 @@ The game logic is handled by a Solidity smart contract deployed on Ethereum. It 
 - Joining the game
 - Placing ships
 - Attacking enemy positions
-- Determining the winner
+- Determining the winner 
 
 ## Deployment
 To deploy the contract, use Remix or Hardhat:
