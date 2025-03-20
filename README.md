@@ -18,7 +18,7 @@ BattleShips Solidity is an on-chain implementation of the classic Battleship gam
 The game logic is handled by a Solidity smart contract deployed on Ethereum. It includes functions for:
 - Joining the game
 - Placing ships
-- Attacking enemy positions
+- Attacking enemy positions 
 - Determining the winner 
 
 ## Deployment
