@@ -9,7 +9,7 @@ BattleShips Solidity is an on-chain implementation of the classic Battleship gam
 - **Automatic Win Detection** – The game ends when one player loses all ships.
 
 ## How It Works
-1. **Join the Game:** Two players can join the game by calling `joinGame()`.
+1. **Join the Game:** Two players can join the game by calling `joinGame()`. 
 2. **Place Ships:** Each player places 3 ships on a 5x5 grid using `placeShip(x, y)`.
 3. **Start Playing:** Players take turns attacking coordinates with `attack(x, y)`. Hits and misses are recorded.
 4. **Win Condition:** A player wins when their opponent has no remaining ships.
