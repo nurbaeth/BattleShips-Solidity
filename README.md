@@ -6,7 +6,7 @@ BattleShips Solidity is an on-chain implementation of the classic Battleship gam
 - **Decentralized Gameplay** – All game logic runs on the Ethereum blockchain.
 - **Turn-Based Mechanics** – Players take turns attacking enemy coordinates.
 - **On-Chain State** – Ship placements, attacks, and results are recorded immutably.
-- **Automatic Win Detection** – The game ends when one player loses all ships.
+- **Automatic Win Detection** – The game ends when one player loses all ships. 
 
 ## How It Works
 1. **Join the Game:** Two players can join the game by calling `joinGame()`.  
