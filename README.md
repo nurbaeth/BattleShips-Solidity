@@ -15,7 +15,7 @@ BattleShips Solidity is an on-chain implementation of the classic Battleship gam
 4. **Win Condition:** A player wins when their opponent has no remaining ships. 
 
 ## Smart Contract
-The game logic is handled by a Solidity smart contract deployed on Ethereum. It includes functions for: 
+The game logic is handled by a Solidity smart contract deployed on Ethereum. It includes functions for:  
 - Joining the game
 - Placing ships
 - Attacking enemy positions 
